@@ -32,7 +32,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(0,0,0,.75);
+	color:rgba(085,043,052);
 	padding:2em 0 0.6em 0;
 	text-shadow: 1px 1px 0 #ccc;
 	text-align:center;
@@ -87,7 +87,7 @@ video{
 }
 
 .dupla a:hover{
-	color:rgba(255,0,0,1);
+	color:rgba(085,043,052);
 	text-decoration:underline;
 }
 
