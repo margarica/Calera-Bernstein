@@ -5,7 +5,7 @@
 
 body{
 	background:rgba(255,255,255,1);
-	color:rgba(25,25,25,1);
+	color:rgba(085,043,052);
 	font-family: '<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">', sans-serif;
 	font-weight:300;
 }
@@ -18,7 +18,7 @@ h1, h2, h3, h4{
 h1{
 	letter-spacing:0.3em;
 	color:rgba(085,043,052);
-	text-shadow: 6px 6px 0 #0142,070,089;
+	text-shadow: 6px 6px 0 #085,043,052;
 	text-align:center;
 }
 
