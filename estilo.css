@@ -6,7 +6,7 @@
 body{
 	background:rgba(255,255,255,1);
 	color:rgba(085,043,052);
-	font-family: '<link href="Helvetica" rel="stylesheet">',
+	font-family: '<link href="Helvetica" rel="stylesheet">', sans-serif;
 	font-weight:300;
 }
 
@@ -22,7 +22,6 @@ h1{
 	text-shadow: 6px 6px 0 #085,043,052;
 	text-align:center;
 	font-size: 7em
-	font-family : Helvetica
 
 }
 
